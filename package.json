@@ -1,0 +1,13 @@
+{
+  "name": "smart-clinic-screenshots",
+  "version": "1.0.0",
+  "description": "Script para capturar screenshots automaticamente",
+  "main": "capturar-screenshots.js",
+  "scripts": {
+    "screenshots": "node capturar-screenshots.js",
+    "install-playwright": "npx playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.57.0"
+  }
+}

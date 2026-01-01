@@ -53,4 +53,3 @@ Write-Host "  Admin:  admin@smartclinic.com / senha123" -ForegroundColor White
 Write-Host "  Doctor: joao.silva@smartclinic.com / senha123" -ForegroundColor White
 Write-Host "  Patient: maria.santos@example.com / senha123" -ForegroundColor White
 Write-Host ""
-

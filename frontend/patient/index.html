@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Clinic - Portal Paciente</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="loginContainer" class="container">
+        <div class="login-box">
+            <h1>Smart Clinic Management System</h1>
+            <h2>Portal do Paciente</h2>
+            <form id="loginForm">
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Senha:</label>
+                    <input type="password" id="password" required>
+                </div>
+                <button type="submit">Entrar</button>
+                <div id="errorMessage" class="error-message"></div>
+            </form>
+        </div>
+    </div>
+
+    <div id="dashboardContainer" class="container hidden">
+        <header>
+            <h1>Smart Clinic - Portal Paciente</h1>
+            <button id="logoutBtn">Sair</button>
+        </header>
+        <main>
+            <h2>Buscar Médico</h2>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Digite o nome do médico...">
+                <button id="searchBtn">Buscar</button>
+            </div>
+            <div class="doctors-list" id="doctorsList">
+                <p>Digite o nome do médico para buscar.</p>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

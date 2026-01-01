@@ -1,0 +1,18 @@
+services:
+  mysql:
+    image: mysql:8.4
+    container_name: smart-clinic-mysql
+    environment:
+      MYSQL_DATABASE: smart_clinic
+      MYSQL_USER: smartclinic
+      MYSQL_PASSWORD: smartclinic
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "3306:3306"
+    volumes:
+      - smart_clinic_mysql:/var/lib/mysql
+
+volumes:
+  smart_clinic_mysql:
+
+

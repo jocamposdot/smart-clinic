@@ -6,12 +6,12 @@ Este documento contém todas as respostas organizadas para as 26 questões do as
 
 ## **QUESTÕES 1-12: LINKS DO GITHUB**
 
-> **IMPORTANTE**: Substitua `<seu-usuario>` e `<seu-repo>` pelos valores reais do seu repositório GitHub antes de copiar os links.
+> **IMPORTANTE**: Os links abaixo já estão configurados para o repositório: `https://github.com/jocamposdot/smart-clinic`
 
 ### **Questão 1 - User Stories (9 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/user_stories.md
+https://github.com/jocamposdot/smart-clinic/blob/main/user_stories.md
 ```
 
 **Critérios atendidos:**
@@ -23,7 +23,7 @@ https://github.com/<seu-usuario>/<seu-repo>/blob/main/user_stories.md
 ### **Questão 2 - Schema Design (5 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/schema-design.md
+https://github.com/jocamposdot/smart-clinic/blob/main/schema-design.md
 ```
 
 **Critérios atendidos:**
@@ -35,7 +35,7 @@ https://github.com/<seu-usuario>/<seu-repo>/blob/main/schema-design.md
 ### **Questão 3 - Doctor.java (8 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/project/back_end/models/Doctor.java
+https://github.com/jocamposdot/smart-clinic/blob/main/app/src/main/java/com/project/back_end/models/Doctor.java
 ```
 
 **Critérios atendidos:**
@@ -49,7 +49,7 @@ https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/proj
 ### **Questão 4 - Appointment.java (6 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/project/back_end/models/Appointment.java
+https://github.com/jocamposdot/smart-clinic/blob/main/app/src/main/java/com/project/back_end/models/Appointment.java
 ```
 
 **Critérios atendidos:**
@@ -62,7 +62,7 @@ https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/proj
 ### **Questão 5 - DoctorController.java (6 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/project/back_end/controllers/DoctorController.java
+https://github.com/jocamposdot/smart-clinic/blob/main/app/src/main/java/com/project/back_end/controllers/DoctorController.java
 ```
 
 **Critérios atendidos:**
@@ -75,7 +75,7 @@ https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/proj
 ### **Questão 6 - AppointmentService.java (6 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/project/back_end/services/AppointmentService.java
+https://github.com/jocamposdot/smart-clinic/blob/main/app/src/main/java/com/project/back_end/services/AppointmentService.java
 ```
 
 **Critérios atendidos:**
@@ -89,7 +89,7 @@ https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/proj
 ### **Questão 7 - PrescriptionController.java (6 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/project/back_end/controllers/PrescriptionController.java
+https://github.com/jocamposdot/smart-clinic/blob/main/app/src/main/java/com/project/back_end/controllers/PrescriptionController.java
 ```
 
 **Critérios atendidos:**
@@ -103,7 +103,7 @@ https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/proj
 ### **Questão 8 - PatientRepository.java (4 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/project/back_end/repo/PatientRepository.java
+https://github.com/jocamposdot/smart-clinic/blob/main/app/src/main/java/com/project/back_end/repo/PatientRepository.java
 ```
 
 **Critérios atendidos:**
@@ -117,7 +117,7 @@ https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/proj
 ### **Questão 9 - TokenService.java (5 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/project/back_end/services/TokenService.java
+https://github.com/jocamposdot/smart-clinic/blob/main/app/src/main/java/com/project/back_end/services/TokenService.java
 ```
 
 **Critérios atendidos:**
@@ -131,7 +131,7 @@ https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/proj
 ### **Questão 10 - DoctorService.java (5 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/project/back_end/services/DoctorService.java
+https://github.com/jocamposdot/smart-clinic/blob/main/app/src/main/java/com/project/back_end/services/DoctorService.java
 ```
 
 **Critérios atendidos:**
@@ -145,7 +145,7 @@ https://github.com/<seu-usuario>/<seu-repo>/blob/main/app/src/main/java/com/proj
 ### **Questão 11 - Dockerfile (5 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/Dockerfile
+https://github.com/jocamposdot/smart-clinic/blob/main/Dockerfile
 ```
 
 **Critérios atendidos:**
@@ -161,7 +161,7 @@ https://github.com/<seu-usuario>/<seu-repo>/blob/main/Dockerfile
 ### **Questão 12 - GitHub Actions Workflow (5 pontos)**
 **Link:**
 ```
-https://github.com/<seu-usuario>/<seu-repo>/blob/main/.github/workflows/compile-backend.yml
+https://github.com/jocamposdot/smart-clinic/blob/main/.github/workflows/compile-backend.yml
 ```
 
 **Critérios atendidos:**

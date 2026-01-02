@@ -25,4 +25,31 @@ Thumbs.db
 # Docker volumes (dados do MySQL)
 # Não commitar volumes persistentes
 
+# Screenshots e imagens
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Scripts de teste e documentação temporária
+*.ps1
+*OUTPUTS*.md
+*STATUS*.md
+*GUIA*.md
+*COMO*.md
+*COMANDOS*.md
+*RESUMO*.md
+*INSTRUCOES*.md
+*CAPTURAR*.md
+*PUSH*.md
+*RESPOSTAS*.md
+*SCREENSHOTS*.md
+criar-usuarios-teste.sql
+
+# Node.js (usado apenas para screenshots)
+node_modules/
+package.json
+package-lock.json
+capturar-screenshots.js
 
